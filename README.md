@@ -1,2 +1,2 @@
-# RecoilStatePersist_ResetComponent_Example
+# RecoilPersistenceExample
 Created with CodeSandbox
